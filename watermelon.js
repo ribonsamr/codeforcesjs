@@ -6,8 +6,8 @@ const rl = readline.createInterface({
 });
 
 rl.question('', (input) => {
-  let weight = Number(input);
-  
+  let weight = input;
+
   if (weight % 2 == 0 && weight > 2) {
     console.log("YES");
   } else {
