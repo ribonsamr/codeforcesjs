@@ -1,4 +1,4 @@
-# Codeforces: Node.js
-You have to install [Node.js](https://nodejs.org/en/) to be able to run this code.
+# Codeforces: d8 debugger
+You have to install [d8 debugger](https://github.com/v8/v8/wiki/Using-D8) to be able to run this code.
 
-To run a file, use the terminal/console and use this line: `node <file_name>.js`.
+You can use [brew](https://brew.sh/) to install it, you should install the old version due to Codeforces current version of Google's JavaScript V8 engine.
